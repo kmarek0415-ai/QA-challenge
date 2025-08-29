@@ -1,0 +1,8 @@
+# Core testing framework
+pytest==8.4.1
+
+# Playwright for UI automation
+playwright==1.42.0
+
+# Optional: AnyIO is used by pytest internally for async support (usually installed with pytest)
+anyio==4.10.0
